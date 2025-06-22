@@ -1,6 +1,6 @@
 
 
-# 📒 KisNapló Session Tool
+# 📒 KisNapló (lepesrol lepesre) CLI tool
 
 > ⚠️ **UNOFFICIAL CLI TOOL**
 > This is a third-party tool for automating interactions with the *Lépésről Lépésre* ("Step by Step") interface of the **Karinthy KisNapló** system.
