@@ -10,18 +10,6 @@ A Python automation tool for interacting with the [KisNapló Karinthy interface]
 
 > ⚠️ For educational and personal automation use only. Don’t be a skiddie. You’re better than that.
 
-
-
-Sure, Benedek. Here's a **really good README** for your KisNapló session automation project – clean, structured, and dev-friendly, like something that’d make even a sleep-deprived sysadmin nod in approval.
-
----
-
-# 📒 KisNapló Session Tool
-
-A Python automation tool for interacting with the [KisNapló Karinthy interface](https://kisnaplo.karinthy.hu), supporting session management, name updates, and profile picture uploads via the KSNPLSID token system.
-
-> ⚠️ This is for educational and personal automation use only. Don’t be a skiddie. You’re better than that.
-
 ---
 
 ## 🧠 Features
