@@ -29,6 +29,7 @@ if __name__=="__main__":
         elif command == "upload_picture" or command == "up":
             pic_path = input(">>> Enter picture path: ").strip()
             sesssion.upload_picture(pic_path)
+            print(f">>> Picture uploaded from: {pic_path}")
 
         elif command == "test" or command == "t":
             if sesssion.test():
